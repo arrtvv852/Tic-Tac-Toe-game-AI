@@ -5,4 +5,4 @@ The Tic-Tac-Toe game QLearning AI demonstration.
 It only for AI2AI demonstration.
 
 ## State Setting
-![image](picture or gif url)
+![image](https://github.com/arrtvv852/Tic-Tac-Toe-game-AI/blob/master/State.PNG)
